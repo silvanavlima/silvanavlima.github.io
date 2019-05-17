@@ -37,30 +37,48 @@ social_media:
   # stackoverflow: your_user_id
   twitter: silcrana
   # youtube: your_username
+  speakerd: silvanavlima
+
+# topics:
+#   - name: Angular
+#     web_url: https://github.com/topics/angular
+#     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/angular/angular.png
+
+#   - name: Vue.js
+#     web_url: https://github.com/topics/vue
+#     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
+
+#   - name: Javascript
+#     web_url: https://github.com/topics/js
+#     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
+
+#   - name: Typescript
+#     web_url: https://github.com/topics/typescript
+#     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png
+
+#   - name: Flutter
+#     web_url: https://github.com/topics/flutter
+#     image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
+
+#   - name: Machine Learning
+#     web_url: https://github.com/topics/machinelearning
+
+#   - name: IoT
+#     web_url: https://github.com/topics/iot
 
 topics:
-  - name: Angular
-    web_url: https://github.com/topics/angular
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/angular/angular.png
+  - name: Vue.js SP - Ecossistema do Vue.js
+    web_url: https://www.meetup.com/pt-BR/vuejssp/events/260955514/?comment_table_id=501285137&comment_table_name=event_comment
+    image_url: https://secure.meetupstatic.com/photos/event/e/2/f/highres_481083631.jpeg
+    description: https://speakerdeck.com/silvanavlima/vue-ui
 
-  - name: Vue.js
-    web_url: https://github.com/topics/vue
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
+  - name: Webinar - Digital Innovation One
+    web_url: https://digitalinnovation.one/melhorando-fluxo-de-trabalho-para-desenvolvedores-vue-js/
+    image_url: https://uploaddeimagens.com.br/images/002/118/256/original/288736e1-e3b5-42aa-94c6-5d292e0bb312.jpg?1558117621
+    description: https://speakerdeck.com/silvanavlima/vue-ui
 
-  - name: Javascript
-    web_url: https://github.com/topics/js
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
-
-  - name: Typescript
-    web_url: https://github.com/topics/typescript
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png
-
-  - name: Flutter
-    web_url: https://github.com/topics/flutter
-    image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
-
-  - name: Machine Learning
-    web_url: https://github.com/topics/machinelearning
-
-  - name: IoT
-    web_url: https://github.com/topics/iot
+talks:
+  - name: Vue UI — Melhorando o fluxo de trabalho para Vue.js
+    local: Elo7
+    link_local: https://www.meetup.com/pt-BR/vuejssp/events/260955514/?comment_table_id=501285137&comment_table_name=event_comment
+    description: https://speakerdeck.com/silvanavlima/vue-ui
